@@ -1,7 +1,7 @@
 <h1><b>desafio-array</b></h1>
 
 Olá! Neste readme irei dividir as informações relevantes em tópicos, o desafio passado foi:
-<br>
+<br><br>
 Implementar uma Classe que se deverá manter um Array, por essa classe eu posso:
 <br>
     • Adicionar um elemento 
